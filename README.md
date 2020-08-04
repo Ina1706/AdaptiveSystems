@@ -2,6 +2,8 @@
 
 ### Infosys Consulting Romania
 
+![alt text](alphabot.png)
+
 ## 1. Hardware
 
 Two Alphabot robotic development platforms  
@@ -68,4 +70,7 @@ lightning conditions will not affect the functionality of the agents.
 * When an Alphabot encounters an obstacle, it will change its path (using
 Dijkstra’s Algorithm) and will tell the other agent where the map is blocked
 in order to avoid that route.
+
+![alt text](alphabot2.png)
+![alt text](alphabot3.png)
 
